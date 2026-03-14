@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://truckerlink.com/sitemap.xml
+Sitemap: https://truckingjobs.com/sitemap.xml
 
 User-agent: GPTBot
 Allow: /

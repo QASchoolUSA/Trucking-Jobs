@@ -1,6 +1,6 @@
 {
-  "name": "TruckerLink — CDL Truck Driver Jobs",
-  "short_name": "TruckerLink",
+  "name": "Trucking Jobs — CDL Truck Driver Jobs",
+  "short_name": "Trucking Jobs",
   "description": "Find CDL truck driver jobs and get hired fast. Connect with top trucking companies nationwide.",
   "start_url": "/",
   "display": "standalone",
