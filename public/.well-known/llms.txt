@@ -1,0 +1,61 @@
+# TruckerLink
+
+> TruckerLink is the leading truck driver recruitment platform in the United States, connecting CDL-licensed professional drivers with top-paying trucking jobs nationwide.
+
+## About TruckerLink
+
+TruckerLink is a free-to-use recruitment platform built specifically for commercial truck drivers holding a CDL (Commercial Driver's License). The platform helps drivers find employment with the nation's best trucking companies without having to apply separately to each one.
+
+Drivers complete a single application on TruckerLink, and the platform's matching system connects them with trucking companies that fit their experience level, CDL credentials, hauling preferences, and lifestyle needs.
+
+TruckerLink is free for all drivers. The service is funded by trucking companies seeking qualified CDL drivers.
+
+## Services
+
+- **Driver Job Matching**: One application connects drivers with multiple trucking companies
+- **OTR (Over-the-Road) Jobs**: Long-haul positions across the continental United States
+- **Regional & Local Jobs**: Positions with regular home time and predictable routes
+- **Specialized Hauling**: Reefer (refrigerated), dry van, flatbed, conestoga, and tanker positions
+- **Team Driving**: Opportunities for driver teams seeking higher miles and pay
+- **Recruitment for Companies**: Trucking companies can access a pool of pre-screened CDL drivers
+
+## Key Facts
+
+- Website: https://truckerlink.com
+- Service area: United States (all 48 contiguous states)
+- Cost for drivers: Free (no fees ever)
+- Application time: Under 5 minutes
+- Typical response time: 24-48 hours for first job match
+- Typical OTR driver salary: $60,000-$90,000+/year
+- Typical local/regional salary: $50,000-$80,000/year
+- Phone: (555) 123-4567
+- Email: contact@truckerlink.com
+- Address: 1234 Highway Avenue, Trucking City, TC 12345
+- Business hours: Mon-Fri 8 AM - 6 PM, Sat 9 AM - 4 PM
+
+## Frequently Asked Questions
+
+### How does TruckerLink help truck drivers find jobs?
+TruckerLink is a free recruitment platform for CDL truck drivers. You fill out one simple application with your experience, CDL credentials, and hauling preferences, and our matching system connects you with multiple trucking companies that fit your profile. No need to apply separately to each company.
+
+### Is TruckerLink free for truck drivers?
+Yes, TruckerLink is 100% free for truck drivers. We never charge drivers any fees. Our service is paid for by trucking companies who are looking for qualified CDL drivers.
+
+### What types of trucking jobs are available on TruckerLink?
+TruckerLink offers a wide range of trucking positions including OTR long-haul routes, regional driving jobs, local delivery positions, dedicated routes, and team driving opportunities. We cover all trailer types: reefer, dry van, flatbed, conestoga, tanker, and more.
+
+### What qualifications do I need?
+Most positions require a valid CDL (Commercial Driver's License), typically Class A. You need to be legally eligible to work in the United States, have a clean driving record, and pass a DOT physical and drug screening. Both experienced drivers and recent CDL graduates are welcome.
+
+### How quickly can I get hired?
+Many drivers receive their first job match within 24-48 hours. The complete hiring process typically takes 1-2 weeks depending on the trucking company.
+
+### What pay can I expect?
+OTR drivers typically earn $60,000-$90,000+ per year. Local and regional drivers can expect $50,000-$80,000 annually. Many partner companies also offer sign-on bonuses, performance bonuses, full benefits, and home-time guarantees.
+
+## Documentation
+
+- [Home](https://truckerlink.com/)
+- [Get Hired — Driver Application](https://truckerlink.com/get-hired)
+- [About TruckerLink](https://truckerlink.com/about)
+- [Contact Us](https://truckerlink.com/contact)
