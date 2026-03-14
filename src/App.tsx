@@ -77,9 +77,13 @@ function Navbar() {
 
   const navLinkClass = (path: string) =>
     `relative px-4 py-2 text-sm font-medium rounded-lg transition-all duration-200 ${
-      isActive(path)
-        ? 'text-brand-700 bg-brand-50'
-        : 'text-gray-600 hover:text-brand-700 hover:bg-gray-50'
+      scrolled
+        ? isActive(path)
+          ? 'text-brand-700 bg-brand-50'
+          : 'text-gray-600 hover:text-brand-700 hover:bg-gray-50'
+        : isActive(path)
+          ? 'text-white bg-white/20'
+          : 'text-white/80 hover:text-white hover:bg-white/10'
     }`;
 
   return (
@@ -95,11 +99,13 @@ function Navbar() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center">
             <Link to="/" className="flex items-center gap-2.5 group" aria-label="Trucking Jobs home">
-              <div className="w-10 h-10 bg-brand-600 rounded-xl flex items-center justify-center group-hover:bg-brand-700 transition-colors shadow-md">
+              <div className={`w-10 h-10 rounded-xl flex items-center justify-center transition-all duration-300 ${
+                scrolled ? 'bg-brand-600 group-hover:bg-brand-700 shadow-md' : 'bg-white/15 group-hover:bg-white/25'
+              }`}>
                 <Truck className="h-5 w-5 text-white" aria-hidden="true" />
               </div>
-              <span className="text-xl font-bold text-gray-900 tracking-tight">
-                Trucking<span className="text-brand-600">Jobs</span>
+              <span className={`text-xl font-bold tracking-tight transition-colors duration-300 ${scrolled ? 'text-gray-900' : 'text-white'}`}>
+                Trucking<span className={`transition-colors duration-300 ${scrolled ? 'text-brand-600' : 'text-brand-300'}`}>Jobs</span>
               </span>
             </Link>
 
@@ -116,7 +122,9 @@ function Navbar() {
 
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden w-10 h-10 flex items-center justify-center rounded-xl text-gray-700 hover:bg-gray-100 transition-colors"
+              className={`md:hidden w-10 h-10 flex items-center justify-center rounded-xl transition-colors ${
+                scrolled ? 'text-gray-700 hover:bg-gray-100' : 'text-white hover:bg-white/10'
+              }`}
               aria-expanded={mobileMenuOpen}
               aria-label="Toggle navigation menu"
             >
